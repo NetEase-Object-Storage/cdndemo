@@ -20,11 +20,11 @@ import java.util.Map;
  */
 public class CdnDemo {
     // 用户的ak
-    private static final String ak = "09af6e2b6d584072bfeea4a3cf265c0c";
+    private static final String ak = "";
     // 用户的sk
-    private static final String sk = "45955382fc4b4092864db49704eb29d2";
+    private static final String sk = "";
     // 需要Purge的域名
-    private static final String domainName = "redirect.nosdn.127.net";
+    private static final String domainName = "";
 
     // cdn endpoint
     private static final String endPoint = "ncdn-eastchina1.126.net";
